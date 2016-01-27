@@ -31,7 +31,7 @@ from apscheduler.triggers.interval import IntervalTrigger
 from htpc.root import do_restart
 
 # configure git repo
-gitUser = 'Hellowlol'
+gitUser = 'awagnon'
 gitRepo = 'HTPC-Manager'
 
 
